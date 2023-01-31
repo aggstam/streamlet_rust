@@ -7,7 +7,6 @@ Simulation of the protocol is implemented as a unit test and can be executed usi
 ```
 cargo test -- --nocapture
 ```
-<br>
-References:
-<br>
+
+## References
 [1] Elaine Shi. 2021. Streamlet: An Absurdly Simple, Textbook Blockchain Protocol. Proceedings of the 2021 ACM Asia Conference on Computer and Communications Security. Association for Computing Machinery, New York, NY, USA, 320. https://doi.org/10.1145/3433210.3460016
